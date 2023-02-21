@@ -9,11 +9,11 @@ function esPositivo(num) {
    // Si el número es 0, devuelve false.
    // Tu código:
    if (numeroPositivo==="+"){
-   return ("Positivo");
+   return("Positivo");
    } else if (numeroNegativo==="-"){
-   return ("Negativo");
+   return("Negativo");
    } else {
-     return ("False"); 
+     return("False"); 
    }
 }
 
@@ -21,13 +21,14 @@ function agregarSimboloExclamacion(str) {
    // Agrega un símbolo de exclamación al final del string "str" y retórnalo
    // Ejemplo: "hello world" ---> "hello world!"
    // Tu código:
-   return ("str + !");
+   return("str"+"!");
 }
 
 function combinarNombres(nombre, apellido) {
    // Retorna "nombre" y "apellido" combinados en un mismo string pero separados por un espacio.
    // Ejemplo: ("Soy", "Henry") ---> "Soy Henry"
    // Tu código:
+
 }
 
 function obtenerSaludo(nombre) {
