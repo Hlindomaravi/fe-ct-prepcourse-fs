@@ -18,7 +18,7 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
    // Retorna el valor de "num" elevado al exponente "exponent".
    // Tu código:
-   return Math.pow(num,2,3);
+   return Math.pow(num,2.3);
 }
 
 function redondearNumero(num) {
@@ -36,7 +36,7 @@ function redondearHaciaArriba(num) {
 function numeroRandom() {
    // Genera un número al azar entre 0 y 1 y retórnalo.
    // Tu código:
-   return Math.randon();
+   return Math.random();
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
