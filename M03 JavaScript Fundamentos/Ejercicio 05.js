@@ -8,9 +8,9 @@ function esPositivo(num) {
    // Si el número es negativo ---> "Es negativo".
    // Si el número es 0, devuelve false.
    // Tu código:
-   if (numeroPositivo === "+"){
+   if (numeroPositivo === "1...99"){
    return("Positivo");
-   } else if (numeroNegativo === "-"){
+   } else if (numeroNegativo === "-1...-99"){
    return("Negativo");
    } else {
      return("False"); 
